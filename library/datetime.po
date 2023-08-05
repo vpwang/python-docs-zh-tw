@@ -139,7 +139,7 @@ msgstr ""
 msgid ""
 "The largest year number allowed in a :class:`date` or :class:`.datetime` "
 "object. :const:`MAXYEAR` is ``9999``."
-msgstr ":class:`date` 或 :class:`.datetime` 物件中允許的最大年份數。 :const:`MAXYEAR` 是 ``9999`` 。"
+msgstr ":class:`date` 或 :class:`.datetime` 物件中允許的最大年份數。常數 :const:`MAXYEAR` 是 ``9999`` 。"
 
 #: ../../library/datetime.rst:89
 msgid "Alias for the UTC timezone singleton :attr:`datetime.timezone.utc`."
