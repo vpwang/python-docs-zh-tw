@@ -133,7 +133,7 @@ msgstr ":mod:`datetime` 模組匯出以下常數："
 msgid ""
 "The smallest year number allowed in a :class:`date` or :class:`.datetime` "
 "object. :const:`MINYEAR` is ``1``."
-msgstr ""
+msgstr ":class:`date` 或 :class:`.datetime` 物件中允許的最小年份數。常數 :const:`MINYEAR` 是 ``1`` 。"
 
 #: ../../library/datetime.rst:84
 msgid ""
